@@ -1,3 +1,5 @@
 # hive
 
-Create tables and tips!!!
+## Docker 
+From https://github.com/big-data-europe/docker-hive
+
